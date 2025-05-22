@@ -40,7 +40,7 @@ This analysis is foundational for building machine learning models or deriving a
 
 3. **Open the notebook**:
 
-  jupyter notebook "EDA and Data cleaning in HR Analytics.ipynb"
+    jupyter notebook "EDA and Data cleaning in HR Analytics.ipynb"
 
 ✅ **Results**
 
