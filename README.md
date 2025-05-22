@@ -32,8 +32,8 @@ This analysis is foundational for building machine learning models or deriving a
 
 1. **Clone the repository**:
    ```bash
-   
-  
+   https://github.com/Rama24296/EDA-and-Data-cleaning-project
+
 2. **Install dependencies**:
 
 pip install -r requirements.txt
